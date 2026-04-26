@@ -1,2 +1,9 @@
-# simple-habit-tracker-helper
-A simple habit tracker project
+# Habit Tracker
+
+A simple habit tracker project.
+\n
+## Getting Started
+
+```bash
+python app.py
+```
